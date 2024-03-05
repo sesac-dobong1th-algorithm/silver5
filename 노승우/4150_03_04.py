@@ -76,3 +76,4 @@ def mul(A: list, B: list) -> list:
     ]
 
 '''
+

@@ -26,3 +26,4 @@ lst.sort(key = len) # 파라미터는 길이순 정렬 가능 reverse=False(오�
 # 번외로 sort와 sotred 의 메서드가있는데 sort 메서드는 원본을 변형 sotrted는 변형을 시기킨 않는다
 for i in lst:
     print(i)# 출력
+
